@@ -2,6 +2,8 @@
 
 ## Carshair Vehicle Search repository link : [Github](https://github.com/kirti18patel/carshair)
 
+![badge](https://img.shields.io/badge/licence-MIT-green) ![badge](https://img.shields.io/badge/-HTML-red) ![badge](https://img.shields.io/badge/-CSS-red) ![badge](https://img.shields.io/badge/-Javascript-red) ![badge](https://img.shields.io/badge/-Tailwind-red) ![badge](https://img.shields.io/badge/-Bootstrap-red) ![badge](https://img.shields.io/badge/-MaterialUI-red) ![badge](https://img.shields.io/badge/-React-red)
+
 ## Description: 
 Carshair Vehicle Search web application allows avid users to search cars available by its brand, manufacturing year or type. It is atttractive and easy to use as user can filter car search by different ways.
 
@@ -10,6 +12,8 @@ Carshair Vehicle Search web application allows avid users to search cars availab
 * [License](#license)
 * [Links](#links)
 * [Preview](#preview)
+* [Demo](#demo)
+* [Usage](#usage)
 * [Tools](#tools)
 * [Credits](#credits)
 
@@ -31,6 +35,12 @@ To connect to the application on local host address, the user must clone the rep
 ![alt screenshot1](/src/assets/img3.png)
 ![alt screenshot1](/src/assets/img4.png)
 
+## Links 
+•	[Demo Link]()
+
+## Usage 
+
+This application is easy to use and interactive. User can search a car through searchbar, or can also filter the results according to the options provided.
 
 ## Tools
 
