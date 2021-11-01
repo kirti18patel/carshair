@@ -1,0 +1,18 @@
+/* navbar */
+.navbar{
+    background: var(--white);
+    padding: 1% 2%;
+    height: 10vh;
+}
+
+.menu{
+    font-family: 'Montserrat', sans-serif;
+    color: var(--gray);
+    background: var(--white);
+    padding: 0.5% 1.5%;
+}
+
+a{   
+    font-family: Graphik Compact Web,Arial; 
+    color: #313131;
+}
