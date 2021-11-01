@@ -22,7 +22,7 @@ To connect to the application on local host address, the user must clone the rep
 ## License
 ![badge](https://img.shields.io/badge/licence-MIT-green)
 
-## Links ]
+## Links 
 •	[Heroku Deployment](https://carshair-kirti.herokuapp.com/)
 
 ## Preview
