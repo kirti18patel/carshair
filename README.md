@@ -30,10 +30,9 @@ To connect to the application on local host address, the user must clone the rep
 •	[Heroku Deployment](https://carshair-kirti.herokuapp.com/)
 
 ## Preview
-![alt screenshot1](/src/assets/img1.png)
-![alt screenshot1](/src/assets/img2.png)
-![alt screenshot1](/src/assets/img3.png)
-![alt screenshot1](/src/assets/img4.png)
+![alt screenshot1](/src/assets/images/img1.png)
+![alt screenshot1](/src/assets/images/img2.png)
+![alt screenshot1](/src/assets/images/img3.png)
 
 ## Links 
 •	[Demo Link](https://watch.screencastify.com/v/DxboOYZBXN3u2fU3KSzD)
