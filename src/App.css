@@ -19,3 +19,8 @@ body{
   background: var(--white);
   overflow-x: hidden;
 }
+
+footer{
+  background: var(--gray);
+  color: var(--white);
+}

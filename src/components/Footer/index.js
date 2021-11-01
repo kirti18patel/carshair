@@ -1,18 +1,14 @@
 import React from 'react'
+import logo from './../../assets/images/CarSHAiR-Logo-Wht.png'
 
 const Footer = () => {
     return (
-    <nav className="mx-2 shadow-md w-full p-3 navbar flex flex-center justify-between z-50">
-        <div className="logo w-1/12 h-full" >
-            <img src={logo} alt= "carshair logo" className="w-full h-full"/>
+    <footer className="flex flex-col items-center justify-around lg:p-20 p-4">
+        <div className="lg:w-1/12 w-1/4 lg:m-4 m-2">
+            <img src={logo} class="img-fluid" alt="logo in footer"/>
         </div>
-        <div className="w-1/4 flex flex-center justify-around items-center">
-            <a href="#" className="no-underline font-light text-2xl">Rent a Car</a>
-            <a href="#" className="no-underline font-light text-2xl">List a Car</a>
-            <button className="menu cursor-pointer border-none text-2xl">
-                <i className="fa fa-bars" aria-hidden="true"></i></button>
-        </div>
-    </nav>
+        <p className="lg:text-lg text-sm">Copyright &copy; SHAiR Your Car with Kirti 2021. Designed by Kirti as a carSHAiR tech assignment. All rights reserved.</p>
+    </footer>
     )
 }
 
